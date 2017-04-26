@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.contesttestii.sem6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/syll"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="syllabus" />
+
+        <Button
+            android:id="@+id/sub1"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sem6sub1" />
+
+        <Button
+            android:id="@+id/sub2"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sem6sub2" />
+
+        <Button
+            android:id="@+id/sub3"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sem6sub3" />
+
+        <Button
+            android:id="@+id/sub4"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sem6sub4" />
+
+        <Button
+            android:id="@+id/sub5"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sem6sub5" />
+
+        <Button
+            android:id="@+id/sub6"
+            style="@style/subButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sem6sub6" />
+
+
+    </LinearLayout>
+</ScrollView>

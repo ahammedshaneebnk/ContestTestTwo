@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.contesttestii">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EmailPasswordActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+
+        </activity>
+        <activity
+            android:name=".sem1Activity"
+            android:label="Semester 1" />
+        <activity
+            android:name=".sem2Activity"
+            android:label="Semester 2" />
+        <activity
+            android:name=".sem3Activity"
+            android:label="Semester 3" />
+        <activity
+            android:name=".sem4Activity"
+            android:label="Semester 4" />
+        <activity
+            android:name=".sem5Activity"
+            android:label="Semester 5" />
+        <activity
+            android:name=".sem6Activity"
+            android:label="Semester 6" />
+        <activity
+            android:name=".sem7Activity"
+            android:label="Semester 7" />
+        <activity
+            android:name=".sem8Activity"
+            android:label="Semester 8" />
+        <activity
+            android:name=".contentActivity"
+            android:label="Contents" />
+
+    </application>
+
+</manifest>

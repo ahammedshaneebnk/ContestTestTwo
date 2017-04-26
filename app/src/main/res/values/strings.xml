@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Content Test II</string>
+
+    <string name="sem1sub1">Engineering Mathematics - I</string>
+    <string name="sem1sub2">Engineering Physics</string>
+    <string name="sem1sub3">Engineering Chemistry</string>
+    <string name="sem1sub4">Engineering Graphics</string>
+    <string name="sem1sub5">Engineering Mechanics</string>
+    <string name="sem1sub6">Basic Civil Engineering</string>
+
+    <string name="sem2sub1">Building Technology</string>
+    <string name="sem2sub2">Basic Mechanical Engineering</string>
+    <string name="sem2sub3">Engineering Thermodynamics</string>
+    <string name="sem2sub4">Basic Electrical Engineering</string>
+    <string name="sem2sub5">Basic Electronics Engineering</string>
+    <string name="sem2sub6">Programming in C</string>
+
+    <string name="sem3sub1">Engineering Mathematics - I</string>
+    <string name="sem3sub2">Engineering Mathematics - I</string>
+    <string name="sem3sub3">Engineering Mathematics - I</string>
+    <string name="sem3sub4">Engineering Mathematics - I</string>
+    <string name="sem3sub5">Engineering Mathematics - I</string>
+    <string name="sem3sub6">Engineering Mathematics - I</string>
+
+    <string name="sem4sub1">Engineering Mathematics - I</string>
+    <string name="sem4sub2">Engineering Mathematics - I</string>
+    <string name="sem4sub3">Engineering Mathematics - I</string>
+    <string name="sem4sub4">Engineering Mathematics - I</string>
+    <string name="sem4sub5">Engineering Mathematics - I</string>
+    <string name="sem4sub6">Engineering Mathematics - I</string>
+
+    <string name="sem5sub1">Engineering Mathematics - I</string>
+    <string name="sem5sub2">Engineering Mathematics - I</string>
+    <string name="sem5sub3">Engineering Mathematics - I</string>
+    <string name="sem5sub4">Engineering Mathematics - I</string>
+    <string name="sem5sub5">Engineering Mathematics - I</string>
+    <string name="sem5sub6">Engineering Mathematics - I</string>
+
+    <string name="sem6sub1">Engineering Mathematics - I</string>
+    <string name="sem6sub2">Engineering Mathematics - I</string>
+    <string name="sem6sub3">Engineering Mathematics - I</string>
+    <string name="sem6sub4">Engineering Mathematics - I</string>
+    <string name="sem6sub5">Engineering Mathematics - I</string>
+    <string name="sem6sub6">Engineering Mathematics - I</string>
+
+    <string name="sem7sub1">Engineering Mathematics - I</string>
+    <string name="sem7sub2">Engineering Mathematics - I</string>
+    <string name="sem7sub3">Engineering Mathematics - I</string>
+    <string name="sem7sub4">Engineering Mathematics - I</string>
+    <string name="sem7sub5">Engineering Mathematics - I</string>
+    <string name="sem7sub6">Engineering Mathematics - I</string>
+
+    <string name="sem8sub1">Engineering Mathematics - I</string>
+    <string name="sem8sub2">Engineering Mathematics - I</string>
+    <string name="sem8sub3">Engineering Mathematics - I</string>
+    <string name="sem8sub4">Engineering Mathematics - I</string>
+    <string name="sem8sub5">Engineering Mathematics - I</string>
+    <string name="sem8sub6">Engineering Mathematics - I</string>
+</resources>
